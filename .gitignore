@@ -1,0 +1,6 @@
+.venv
+*.dat
+*.log
+*.json
+__pycache__
+.coverage
